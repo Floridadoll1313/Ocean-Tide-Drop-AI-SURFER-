@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@300;400;500;700;900&display=swap');
 @import "tailwindcss";
 
 @theme {
@@ -7,6 +8,10 @@
   --color-surf-cyan: #06b6d4;
   --color-surf-blue: #3b82f6;
   --color-surf-dark: #050505;
+  
+  --color-neon-cyan: #00ffff;
+  --color-neon-pink: #ff0080;
+  --color-neon-green: #39ff14;
 }
 
 body {
